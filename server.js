@@ -49,6 +49,6 @@ app.use("/teacher",TeacherRoute)
 //student apis
 app.use("/student",StudentRoute)
 app.get("/",(req,res)=>{
-    res.send("<center><h1>Expense_Tracker_App All apis</h1><br>Get All Apis Use My Link <a href=https://github.com/Kotak111/Education_management target=_blank>Repository :- Education_management</a></center>")
+    res.send("<center><h1>Education_managemnt_App All apis</h1><br>Get All Apis Use My Link <a href=https://github.com/Kotak111/Education_management target=_blank>Repository :- Education_management</a></center>")
 })
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
