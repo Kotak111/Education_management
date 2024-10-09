@@ -26,7 +26,6 @@ About This project:
 
 ![Expense Dashboard](./images/swag2.png)
 
-This is the dashboard view of the Expense Tracker Application where users can view and manage their expenses with filtering, sorting, and bulk deletion features.
 
 
 ### Setup .env file
